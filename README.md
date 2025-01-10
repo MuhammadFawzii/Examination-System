@@ -59,8 +59,9 @@ A comprehensive Examination System designed to handle various exam scenarios eff
 
 
 ---
-##DEMO
-![DEMO](./Video.mp4)
+## Project Video
+[Watch the project video](https://drive.google.com/file/d/1vYdLUWisZKYExDY-_T5RfDTpH2keaA6_/view?usp=sharing)
+
 ## Project Structure
 
 - **Abstract Classes**: Defines the contracts for exams and questions.
