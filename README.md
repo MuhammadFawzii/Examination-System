@@ -59,10 +59,10 @@ A comprehensive Examination System designed to handle various exam scenarios eff
 
 
 ---
-## Project Video
-## Project Video
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=13Tp4ZPgtoc2femjeiHmx0NRu7pwUsnvp)](https://drive.google.com/uc?export=view&id=1vYdLUWisZKYExDY-_T5RfDTpH2keaA6_)
+## Project Video
+[Watch the project video](https://drive.google.com/file/d/1vYdLUWisZKYExDY-_T5RfDTpH2keaA6_/view?usp=sharing)
+
 
 
 ## Project Structure
